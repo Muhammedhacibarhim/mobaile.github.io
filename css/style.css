@@ -415,7 +415,7 @@ footer.footer .copyright {
 
     header.header .overlay .header-img img {
         bottom: -500px;
-        right: 25%;
+        right: 20%;
     }
 
     section.feature .features {
@@ -429,6 +429,9 @@ footer.footer .copyright {
 
     section.option .option-img  {
         bottom: -300px;
+    }
+    section.option .option-img img  {
+        max-width: 100%;
     }
 
     section.slider .slider-carousel button.i {
